@@ -1,2 +1,1 @@
-# TenserflowResources
-Tenserflow Resources
+# TensorFlow Resources
