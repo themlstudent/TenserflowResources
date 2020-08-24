@@ -1,4 +1,4 @@
-![](/images/tenserflow.png)
+![](/images/ten.png)
 
 
 # TensorFlow Resources
